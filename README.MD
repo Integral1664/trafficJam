@@ -1,4 +1,4 @@
-#AI - нейросеть для анализа происшествий
-#CODD - BackEnd Server
+# AI - нейросеть для анализа происшествий
+# CODD - BackEnd Server
 codd/tgbot - Telegram Bot
-#YOLO - pre-trained model for CV
+# YOLO - pre-trained model for CV
